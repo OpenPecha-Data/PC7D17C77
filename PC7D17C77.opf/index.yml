@@ -1,0 +1,22 @@
+id: d5aff8b3ce4b4f19add72a649d099b96
+annotation_type: index
+revision: '00001'
+annotations:
+  c6e1acbe9cd24490b139fb1e6cc42b14:
+    work_id: WE655C136
+    span:
+      vol: CI_Verses 1-10
+      start: 0
+      end: 1941
+  64bec2822db84293ae3069847d665b53:
+    work_id: WF13ECEFE
+    span:
+      vol: CI_Verses 11-20
+      start: 0
+      end: 1616
+  363c7378d67c4ca78bd1f89ea4e3f7af:
+    work_id: WDF8DBD97
+    span:
+      vol: CI_Verses 21-31
+      start: 0
+      end: 1843
